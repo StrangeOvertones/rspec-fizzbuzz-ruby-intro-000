@@ -6,4 +6,4 @@ def fizzbuzz(int)
   else int % 5 == 0
     puts "Buzz"
   else
-end
+
